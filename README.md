@@ -1,1 +1,1 @@
-# Smart Energy Dashboard - Backend with Auth (Node.js + Express + MongoDB)
+# Smart Energy Dashboard - Frontend with Login/Signup
